@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d02e8e6-928a-4919-80bd-a5ed8c496579" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2y876r13YFGpHyxylJvfZGIQk4d" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BatchContextCollectorRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Contect Collection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KotlinClassLocator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalDataCreator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.BatchContextCollector.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.BatchContextCollectorRunner [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.BatchContextCollectorRunner [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.kotlin-ast-parser [package].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/costa/IdeaProjects/ContextCollection/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;/Users/costa/IdeaProjects/20250724_0.67_20h00_ContextCollection/src/org/noesis/codeanalysis/util/kotlin/psi/formatters/KotlinSemanticNodeContextUtil.java&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;/Users/costa/IdeaProjects/20250724_0.67_20h00_ContextCollection/src/org/noesis&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="PsiViewer">
+    <option name="FILTER_WHITESPACE" value="true" />
+    <option name="SPLIT_DIVIDER_POSITION" value="525" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.noesis.codeanalysis.dataobjects.enums" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.noesis.codeanalysis.collectionstrategies.kotlin.psi.weightedassociations.functionevaluators" />
+      <recent name="org.noesis.codeanalysis.dataobjects.input" />
+      <recent name="org.noesis.codeanalysis.util.kotlin.semanticpsi.dataobjects.nodecomponents.file" />
+      <recent name="org.noesis.codeanalysis.collectionstrategies.kotlin.psi.weightedassociations.functionitems" />
+      <recent name="org.noesis.codeanalysis.util.kotlin.semanticpsi.dataobjects.nodecomponents.function" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Contect Collection">
+    <configuration name="Contect Collection" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.noesis.codeanalysis.control.BatchContextCollectorRunner" />
+      <module name="kotlin-ast-parser" />
+      <option name="PROGRAM_PARAMETERS" value="-Xmx8g -XX:+UseZGC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalDataCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.noesis.codeanalysis.control.LocalDataCreator" />
+      <module name="kotlin-ast-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.noesis.codeanalysis.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatchContextCollector" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.BatchContextCollector" />
+        <item itemvalue="Application.LocalDataCreator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d02e8e6-928a-4919-80bd-a5ed8c496579" name="Changes" comment="" />
+      <created>1749204176647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749204176647</updated>
+      <workItem from="1749204177704" duration="1065000" />
+      <workItem from="1749205269141" duration="7175000" />
+      <workItem from="1749212553919" duration="572000" />
+      <workItem from="1749213139948" duration="12427000" />
+      <workItem from="1749303730745" duration="69131000" />
+      <workItem from="1749726522992" duration="96784000" />
+      <workItem from="1750326764211" duration="57673000" />
+      <workItem from="1751211233897" duration="51010000" />
+      <workItem from="1751450165455" duration="177790000" />
+      <workItem from="1752315813966" duration="112916000" />
+      <workItem from="1752674791705" duration="48229000" />
+      <workItem from="1752833662509" duration="20265000" />
+      <workItem from="1752935007357" duration="281000" />
+      <workItem from="1752935317891" duration="178000" />
+      <workItem from="1752935514684" duration="110005000" />
+      <workItem from="1753253496469" duration="14145000" />
+      <workItem from="1753274717539" duration="17406000" />
+      <workItem from="1753349519568" duration="28583000" />
+      <workItem from="1753424191071" duration="31987000" />
+      <workItem from="1753456805027" duration="4475000" />
+      <workItem from="1753524011743" duration="13251000" />
+      <workItem from="1753705111408" duration="15580000" />
+      <workItem from="1753791853001" duration="4101000" />
+      <workItem from="1754924791058" duration="6456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/noesis/codeanalysis/dataobjects/input/ContextCollectionInputJsonLine.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/noesis/codeanalysis/computations/kotlin/psi/KotlinRepoNamesToDeclarationsComputation.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/noesis/codeanalysis/computations/general/cache/ComputationFactory.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/noesis/codeanalysis/collectionstrategies/kotlin/psi/weightedassociations/KotlinSemanticPsiTreeWeightedAssociationsStrategy.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/noesis/codeanalysis/collectionstrategies/kotlin/psi/weightedassociations/functionevaluators/EditFunctionAssociationEvaluator.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/noesis/codeanalysis/control/BatchContextCollector.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/org/noesis/codeanalysis/dataobjects/semanticpsi/nodecomponents/function/KotlinSemanticFunctionBodyPart.java</url>
+          <line>6</line>
+          <properties class="org.noesis.codeanalysis.dataobjects.semanticpsi.nodecomponents.function.KotlinSemanticFunctionBodyPart" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/org/noesis/codeanalysis/dataobjects/semanticpsi/node/KotlinSemanticPsiTreeNode.java</url>
+          <line>33</line>
+          <properties class="org.noesis.codeanalysis.dataobjects.semanticpsi.node.KotlinSemanticPsiTreeNode" method="getSemanticReference">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
