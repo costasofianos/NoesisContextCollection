@@ -53,8 +53,6 @@ The framework is composed of several core components:
 | **Semantic Tree Parser** | Constructs an efficient semantic layer on top of the Kotlin PSI tree to represent classes, methods, and variables hierarchically. |
 | **Reporting Engine** | Produces detailed HTML reports showing how each snippet was selected and weighted. |
 
-See the following diagram from the paper for an overview of the architecture:  
-*(Insert `StrategyCombiningArchitecture.png` here)*
 
 ---
 
