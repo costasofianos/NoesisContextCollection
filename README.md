@@ -17,7 +17,7 @@ It enables **dynamic experimentation** with multiple context-collection strategi
 Code completion quality depends heavily on the relevance of contextual code provided to the LLM.  
 This project introduces a **semantic tree abstraction** built on Kotlin’s PSI, allowing structural and association-based pruning of irrelevant code.  
 
-The key idea is to **balance signal and noise** in the provided context — capturing the *most semantically meaningful* code elements while pruning what’s less relevant.  
+The key idea is to **balance signal and noise** in the provided context — capturing the *most semantically meaningful* code elements while pruning what’s less relevant.  In addition, the framework within which the context collection strategy has been developed allows for additional strategies to be incorporated into a single context collection solution.
 
 ---
 
